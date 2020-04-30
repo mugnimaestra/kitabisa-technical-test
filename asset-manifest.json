@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kitabisa-technical-test/static/css/main.3c371430.chunk.css",
+    "main.js": "/kitabisa-technical-test/static/js/main.c53f3cc2.chunk.js",
+    "main.js.map": "/kitabisa-technical-test/static/js/main.c53f3cc2.chunk.js.map",
+    "runtime-main.js": "/kitabisa-technical-test/static/js/runtime-main.6e8b3a0e.js",
+    "runtime-main.js.map": "/kitabisa-technical-test/static/js/runtime-main.6e8b3a0e.js.map",
+    "static/js/2.b01fd924.chunk.js": "/kitabisa-technical-test/static/js/2.b01fd924.chunk.js",
+    "static/js/2.b01fd924.chunk.js.map": "/kitabisa-technical-test/static/js/2.b01fd924.chunk.js.map",
+    "index.html": "/kitabisa-technical-test/index.html",
+    "precache-manifest.66a08682ccafe8198a907dad4661f482.js": "/kitabisa-technical-test/precache-manifest.66a08682ccafe8198a907dad4661f482.js",
+    "service-worker.js": "/kitabisa-technical-test/service-worker.js",
+    "static/css/main.3c371430.chunk.css.map": "/kitabisa-technical-test/static/css/main.3c371430.chunk.css.map",
+    "static/js/2.b01fd924.chunk.js.LICENSE.txt": "/kitabisa-technical-test/static/js/2.b01fd924.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e8b3a0e.js",
+    "static/js/2.b01fd924.chunk.js",
+    "static/css/main.3c371430.chunk.css",
+    "static/js/main.c53f3cc2.chunk.js"
+  ]
+}
