@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ffee63edc5d6bd619d66b49ea1b7f921",
+    "revision": "fc96f6e484a7a1e11953d6a1399c4c39",
     "url": "/kitabisa-technical-test/index.html"
   },
   {
